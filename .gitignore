@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Claude working files
+.claude_history
+claude_context/
+.claude_config
+
+# IDE specific files
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
