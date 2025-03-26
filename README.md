@@ -1,5 +1,7 @@
 # Scoundrel - Terminal Card Game
 
+_A quick experiment using Claude Code to generate a working app in ~30 minutes._
+
 A terminal-based implementation of the Scoundrel card game, a single-player roguelike dungeon crawl card game designed by Zach Gage and Kurt Bieg.
 
 ## Installation
